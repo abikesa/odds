@@ -1,5 +1,5 @@
 > **Leo:** And the fighters you pay to tank out?    
-> **Bluepoint:** We only pick fighters we can put the [fear of God](https://www.dailyscript.com/scripts/millers_crossing.html) in. - *Miller's Crossing*
+> **Bluepoint:** We only pick fighters we can put the [fear of God](https://www.dailyscript.com/scripts/millers_crossing.html) in. - *Miller's Crossing*    
 > Questions of Friendship, Character, and Ethics are also central to Innaritu's Renevant
 
 ![](frontier.png)
@@ -14,29 +14,6 @@
    - Ultimately information will diffuse, families will join the hustlers, and order that secures a childhood for these types: "green zone"
 - `Order`/Communal (love): `identities` are agents (twins), places (talahasi), times (future)
    - Greatest of the secular trinity, which Ethan Coen finds most joy in treating as Sfumato, with mistaken identities 
-
-> *E pluribus unum*. Out of many, one. This is upside down from the sonic perspective, where "Out of one (root tonal frequency), many (overtones of the harmonic series)
-
-# Transpose to ♭E minor
-
-- Naturalversion/`Ecclesiastical`/**Basic**: [tribe](https://www.youtube.com/watch?v=XE2YRP_awwE), pentatonic, `black` - melody (dionysus, aperativo-antipasto-primo-secondo-contorno)
-   - Indeed: think Kyrie Eleison, Gloria, Credo, Sanctus, Agnus Dei (Pentatonic)
-   - And of course: Aperativo, Antipasto, Primo, Secundo, Contorno
-   - Most audible overtones of the harmonic series 
-- Perversion/`Mundane`/**Intermediate**: immigrants, chromatic, `white` - chords (apollo, dolce-[frutta](https://www.youtube.com/watch?v=ADt1VNzi74c))
-- Subversion/`Heretical`/**Advanced**: artists, temperament, `keys` - rhythm (tragedy, caffé-digestivo)
-
-> Ah, the classic rivalry between The Harvard Crimson and The Harvard Lampoon at Harvard University—each represents such different facets of the student experience and creative expression!
-
-> The Harvard Crimson is all about serious journalism. It's steeped in tradition and has been a stepping stone for many who went on to illustrious careers in journalism and beyond. It embodies the rigor and earnestness of news reporting, and for those who dream of a career in media, it’s practically hallowed ground.
-
-> On the flip side, The Harvard Lampoon is about satire, humor, and the kind of creative irreverence that often pokes fun at the very seriousness The Crimson embodies. It's a breeding ground for comedic talent, and many of its alumni have significantly shaped the entertainment industry, particularly in comedy.
-
-> If I had to pick a side, I'd lean towards The Lampoon. Life's serious enough as it is (`tension`), and the ability to turn the day-to-day into humor is not just a rare skill but a necessary relief (`release`). Plus, the impact of Lampoon alumni on popular culture is immense, showing that laughter really might be the best medicine (`tension & release`). - GPT-4
-
-- God & Country 2024 Documentary
-- By Jewish Girl married to Catholic Boy
-- They look at evangelicals and ask: `WTF`?
                                         
                                         1. Root
                                                \
@@ -44,7 +21,7 @@
                                                /
                                                3. Diatonic
 
-### ORDER/Friendship
+### ORDER/Friendship/Verb
 1. Root 
    - My GPTCI PhD `thesis as reharm`
    - Also a simile where the 9-course Italian cuisine
@@ -73,7 +50,7 @@
          - Gradually embracing more remote overtones of the harmonic series is the quintessential definition of growth
          - Human society has done so in all realms and industries, causing consternation to simpletons of the "Pentatonic Credo" of `natural is better than perverted`  
      
-### BUSTLE/Ethics
+### BUSTLE/Ethics/Object
 3. Diatonic
    - Randomized trial with complete data: variance, frequentist, idealistic, platonic
    - Bayesian approach will "contain" the wide-range of chromatic biases within a blue zone of two extreme donor eval scenarios
@@ -93,7 +70,7 @@
       - `Sfumato` and also an "ambiguous morality" in terms of nephrectomy attributable risk
       - We are the new hollywood with these methods!
 
-### FRONTIERS/Character
+### FRONTIERS/Character/Subject
 5. Temperament
    - Answering Dorry's question: what is new is "gradually embracing more remote overtones of the harmonic series" (we've already embraced the pentatonic literature)
       - Its about that time to move beyond the pentatonic scale of live donor literature
