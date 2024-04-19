@@ -1,3 +1,5 @@
+[Fear](https://www.dailyscript.com/scripts/millers_crossing.html) of God
+
 ![](frontier.png)
 
 - `Frontiers`/Physical ([faith](https://www.biblegateway.com/passage/?search=Hebrews%2011&version=KJV)): exploits confusion arising out of mistaken `identities`
