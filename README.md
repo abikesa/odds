@@ -1,3 +1,5 @@
+![](whineth.png)
+
 - Physical ([faith](https://www.biblegateway.com/passage/?search=Hebrews%2011&version=KJV)): exploits confusion arising out of mistaken `identities`
    - A new truth ... a truth if we all had, but [...](https://www.youtube.com/watch?v=N9v6VJLZ8_I)
    - Faith in what is not seen, but what is hoped for, and what is charity
