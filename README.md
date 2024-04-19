@@ -1,11 +1,14 @@
 ![](whineth.png)
 
-- Physical ([faith](https://www.biblegateway.com/passage/?search=Hebrews%2011&version=KJV)): exploits confusion arising out of mistaken `identities`
+- `Frontiers`/Physical ([faith](https://www.biblegateway.com/passage/?search=Hebrews%2011&version=KJV)): exploits confusion arising out of mistaken `identities`
    - A new truth ... a truth if we all had, but [...](https://www.youtube.com/watch?v=N9v6VJLZ8_I)
    - Faith in what is not seen, but what is hoped for, and what is charity
-- Transcendental (hope): hail, caesar!! is the source of this juice
+- `Bustle`/Transcendental (hope): hail, caesar!! is the source of this juice
    - Miller's crossing: long odds (hideth), control (tameth), perturbance (whineth)
-- Communal (love): `identities` are agents (twins), places (talahasi), times (future)
+   - Frontiers of Akira Kurosawa & Sergio Leone have embracers of more remote overtones of harmonic series taking charge of the "red zones"
+   - If they are successful there'll soon be a hustle & bustle, gold or oil rush, with many opportunists trying to join: thats the "flow zone"
+   - Ultimately information will diffuse, families will join the hustlers, and order that secures a childhood for these types: "green zone"
+- `Order`/Communal (love): `identities` are agents (twins), places (talahasi), times (future)
    - Greatest of the secular trinity, which Ethan Coen finds most joy in treating as Sfumato, with mistaken identities 
 
 > *E pluribus unum*. Out of many, one. This is upside down from the sonic perspective, where "Out of one (root tonal frequency), many (overtones of the harmonic series)
