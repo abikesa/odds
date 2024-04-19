@@ -1,5 +1,6 @@
 > **Leo:** And the fighters you pay to tank out?    
 > **Bluepoint:** We only pick fighters we can put the [fear of God](https://www.dailyscript.com/scripts/millers_crossing.html) in. - *Miller's Crossing*
+> Questions of Friendship, Character, and Ethics are also central to Innaritu's Renevant
 
 ![](frontier.png)
 
