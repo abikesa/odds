@@ -100,17 +100,17 @@
       - Perhaps all science should finally let go of "precise" estimates
       - Besides, we all should have these apps go-to-go 
 6. Expression
-   - Digestivo
-      - Physical/`Freedom`/Truth
+   - Landscapes
+      - Physical 
          - Stata-MP
          - GitHub
          - VScode
          - AI
-      - Transcendental/`Deity`/Justice
+      - Transcendental 
          - Beyond Good & Evil: study design & consent more transparent; all assumptions "experienced" by end-user
          - Democratization and with the `Fena` platform as a starting point
          - Lets go to infinity and beyond!
-      - Communal/[We the People](https://en.wikipedia.org/wiki/Preamble_to_the_United_States_Constitution)/Love
+      - [Moral](https://en.wikipedia.org/wiki/Preamble_to_the_United_States_Constitution) 
          - Investigative police department is like a massive neural network thats autoencoding the tapped kidnapper call & photographic evidence from train
             - Whitney Houston does Cameos for Bebe & Cece Winas, Cece Winans, Angie & Debbie, mostly around 1993 when her career was at peak
             - So lets ask this: what exactly did the Winans mean to this diva? She wasn't seeking fame
