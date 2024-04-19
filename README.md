@@ -55,6 +55,7 @@
    - Randomized trial with complete data: variance, frequentist, idealistic, platonic
    - Bayesian approach will "contain" the wide-range of chromatic biases within a blue zone of two extreme donor eval scenarios
    - Diatonic containment of chromaticism is the simile we are going with here: danke, Herr Bernstein!
+   - **Caspar**: You got references?  You been to college, kid? We only take yeggs what's been to college.  Ain't that right, [Bluepoint](https://www.dailyscript.com/scripts/millers_crossing.html)?
 4. Chromatic
    - Frutta
       - Process
