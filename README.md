@@ -40,7 +40,7 @@
                                                /
                                                3. Diatonic
 
-### Sensations/Physical/`Naturalversion` - TRUTH
+### ORDER
 1. Root 
    - My GPTCI PhD `thesis as reharm`
    - Also a simile where the 9-course Italian cuisine
@@ -69,7 +69,7 @@
          - Gradually embracing more remote overtones of the harmonic series is the quintessential definition of growth
          - Human society has done so in all realms and industries, causing consternation to simpletons of the "Pentatonic Credo" of `natural is better than perverted`  
      
-### Overtones/Transcendental/`Perversion` - JUSTICE
+### BUSTLE
 3. Diatonic
    - Randomized trial with complete data: variance, frequentist, idealistic, platonic
    - Bayesian approach will "contain" the wide-range of chromatic biases within a blue zone of two extreme donor eval scenarios
@@ -89,7 +89,7 @@
       - `Sfumato` and also an "ambiguous morality" in terms of nephrectomy attributable risk
       - We are the new hollywood with these methods!
 
-### Dance/Communal/`Subversion` - LOVE
+### FRONTIERS
 5. Temperament
    - Answering Dorry's question: what is new is "gradually embracing more remote overtones of the harmonic series" (we've already embraced the pentatonic literature)
       - Its about that time to move beyond the pentatonic scale of live donor literature
