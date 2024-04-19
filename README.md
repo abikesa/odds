@@ -119,73 +119,29 @@
          - Decoding everything would constitute `frutti dello spirito`
 
 
-# S&P 500
+# Friendship, Character, Ethics 
+### Morally ambiguious gangster aint embarassed to use the term
 
-Your reflections on the harmonic series, spanning the naturalversion to perversion and subversion, present a deeply philosophical and metaphorical view of society, ethics, and growth, much like a symphony unfolds in movements, each with its unique character and depth.
+The movies "Miller's Crossing" and "The Revenant" offer rich narratives to explore themes of friendship, character, and ethics, particularly when juxtaposed against the backdrop of "Frontiers, Hustle & Bustle, and Order." Both films delve into the evolution of geographic and interpersonal landscapes under pressure from societal change, betrayal, and survival.
 
-### Naturalversion and the Quest for Authenticity
+### "Miller's Crossing" and the Evolution of Frontiers and Order
 
-You've drawn a compelling parallel between the pentatonic scale and societal norms that adhere closely to traditional or "natural" views, which often resonate more clearly and loudly with the general populace. This adherence can reflect a societal reluctance to delve into the more complex, less comfortable aspects of life and governance. The example of Christian nationalism focusing on certain biblical elements while ignoring others is poignant. It reflects how societies often choose simpler, louder messages over the nuanced truths that require more introspection and understanding. The naturalversion, then, is not just a musical grounding but a societal one, often resistant to change but providing a familiar comfort and a clear, if limited, worldview.
+"Miller's Crossing," directed by the Coen Brothers, navigates the murky waters of organized crime during Prohibition. It focuses on the moral complexities faced by Tom Reagan, a mobster's advisor caught between conflicting loyalties and survival strategies. The film's portrayal of the criminal underworld as a frontier explores the boundaries of law, morality, and personal allegiance. 
 
-### Perversion as a Path to Complexity
+In terms of "Order," the film grapples with the establishment and maintenance of power within the crime world. Tom's navigation through the mafia's internal politics, and his manipulations to maintain a semblance of order, highlight the ethical compromises necessary to sustain control. His struggle is emblematic of the broader theme of establishing order in a world governed by its own rules, where the law of the land is dictated not by societal norms but by power dynamics within the criminal underworld.
 
-Your use of "perversion" intriguingly reclaims the term to denote a necessary disruption of simplicity, akin to how chromatic scales introduce tension and complexity into music. In societal terms, embracing chromaticism reflects an openness to diverse, often conflicting perspectives that challenge the monochrome narrative of naturalversion. The medical ethics and Bayesian statistical models you've referenced symbolize this shift towards embracing complexity, recognizing the varied human experiences and the need for a more nuanced approach to solutions. This perversion is not a moral failing but a critical expansion of scope, necessary for genuine progress.
+### "The Revenant" and the Raw Frontiers
 
-### Subversion and the Revolution of Rhythms
+On the other hand, "The Revenant," directed by Alejandro González Iñárritu, strips down the concept of frontier to its rawest form, focusing on physical survival in the American wilderness. The film is a visceral exploration of human endurance and the primal struggle for life after Hugh Glass, played by Leonardo DiCaprio, is left for dead. Here, the frontier is not just geographic but also existential, as Glass battles against nature, his own incapacitation, and betrayal.
 
-Subversion, in your framework, seems to represent the most radical shift—moving beyond the established norms and questioning the foundational bases of theories and practices. Here, the metaphor extends into rhythm, where conventional patterns are disrupted and reformed to create something entirely new and often revolutionary. The reference to expanding scientific research beyond traditional methodologies to include broader, more inclusive perspectives reflects a societal equivalent of musical subversion. It's about challenging the status quo, much like subversive art or political movements do, to instigate real change.
+The hustle and bustle in "The Revenant" are less about societal movement and more about the personal, internal struggle to overcome physical and emotional devastation. Glass's journey is a profound commentary on character and the human spirit's resilience. Ethics come into play through the betrayal by John Fitzgerald and the moral decisions made under extreme duress, highlighting themes of vengeance, justice, and redemption.
 
-In connecting these musical concepts to societal evolution, you’ve painted a picture of a community and intellectual life as an ever-evolving composition, where each movement towards complexity—be it in music, culture, or ethics—brings us closer to a more refined understanding of humanity. This approach not only celebrates the depth and diversity found in the "chromatic" and "subversive" but also recognizes the foundational role of the "natural," setting the stage for an ever-expanding symphony of human experience.
+### The Evolution of a Geographic Area Through These Themes
 
-# Christian Nationalism
+Both films, though different in setting and style, reflect on how individuals influence and are influenced by their environments. In "Miller's Crossing," the urban landscape is a chessboard for human ambition, manipulation, and survival. The film depicts the evolution of an area through the establishment of power structures and the moral decay associated with unchecked ambition.
 
-```bash
-I belive in rain drops falling to give little flowers life
-I belive the sun shines brightly to show off beautiful sights
-I belive in Martin Luther and for freedon he did fight
-I believe that he was chosen to try and change the wrong to right
-I believe man was made for woman for the two to multiply
-I believe in Mary's baby
-I believe in jesus christ
-I believe in Sunday morning
-I believe in after life
-I believe that jesus really gave the blind man back his sight
-I believe in Bible stories, to their truth I have no doubt
-I believe that little David took a lion out
-I believe in living holy, seperation from the rest
-I can testify that I believe in jesus christ
-I believe in Jesus
-I believe in God
-I believe in Mary's baby
-I believe in God
-I believe in Calvary
-I believe in the cross
-I believe that's when and where my Savior paid the cost
-I believe He still works wonders, He's a God of miracles
-I believe if you confess, He would save your sin sick soul
-'Cause I know Him as a healer, gave my brother back his life
-And He told him to live old to be a witness and a light
-I believe real soon He's coming in all His glory and His might
-It would surely be a shame not to believe in Jesus Christ
-I believe in Jesus
-I believe in God
-I believe in Mary's baby
-I believe in God
-I believe in Jesus Christ
-I believe
-Yes, I believe
-I believe
-Do you believe?
-I believe in Jesus Christ
-I believe in Jesus Christ
-Source: Musixmatch
-Songwriters: Michael Wright / Angelique Winans / Debra Winans
-I Believe lyrics © Emi Blackwood Music Inc., Benny's Music
-```
-# America
+"The Revenant," meanwhile, shows the transformation of both character and landscape through sheer will. The wilderness, vast and indifferent, becomes a crucible for human character, reflecting how physical and moral frontiers are pushed and defined by human actions.
 
-1. Jews broke away from pretty much all of human history and decided there was only one true God 
-2. Catholics broke away from Jews by declaring one incarnation of that God as a Jew, Jesus of Nazareth 
-3. Lutherans and Anglicans broke away from Catholics, recognizing exploitative tendencies of the clergy upon the laity; wherein they sold plots of land in heaven in exchange for money 
-4. So many variants have since emerged from the Anglican tradition, especially in the United States, courtesy of the Anglo connection of its cultural roots 
-5. But it’s the evangelicals who embody the spirit of capitalism, growth, and dominance. This groups reaction to a loss in dominance,’most prominent since the 1960s leaves a particular mark on 21st century America 
+### Conclusion
+
+Together, these films offer a compelling examination of friendship, character, and ethics within the concept of evolving frontiers—whether they be societal or natural. "Miller's Crossing" reflects on the constructed order within societal chaos, while "The Revenant" portrays the raw struggle against nature's chaos. Both explore what it means to survive and impose order on a hostile frontier, whether the enemies be human or environmental. The personal transformations of Tom Reagan and Hugh Glass illuminate the profound impacts of their respective journeys, not just on themselves but also on the landscapes they traverse and the ethical landscapes they navigate.
