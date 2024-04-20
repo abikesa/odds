@@ -16,7 +16,9 @@ For someone like you, who sees a reflection in these characters, the Casio proba
 
 This perspective can be quite `liberating`. It challenges the societal push for constant achievement and offers a `quieter` (GEMROHS), perhaps more `introspective` way of finding fulfillment. In a world that often values the `loud` (pentatonic) and the spectacular, there’s a profound beauty in cherishing something simply because it means something to you. What do you think draws you to your Casio, and how does it influence your day-to-day life?
 
-#
+# Symbolism
+
+Llewylyn Moss in No Country for old men hangs on to that case with $1m like to life, like the dude to his rug, Tom to his hat. While the symbolism of the hat and rug are very personal and only "taken away" by others who may understand the symbolism, with a case of $1m the symbolism of ambition is more general and mainstream - mundane, if you will
 
 - Ecclessiastical/Verb
 - Transcendental/Object
