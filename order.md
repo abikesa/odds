@@ -1,6 +1,6 @@
-- Ecclessiastical/Verb
-- Transcendental/Object
-- Mundane/Subject
+- Ecclessiastical/Verb/Frontier
+- Transcendental/Object/Bustle
+- Mundane/Subject/Order
 
 # Drift
 
@@ -22,9 +22,9 @@ This perspective can be quite `liberating`. It challenges the societal push for 
 
 # Symbolism
 
-The Coen Brothers’ work indeed has a profound way of weaving "existential drift" into the fabric of its narratives, juxtaposing the pursuit of seemingly mundane objects against a backdrop of broader existential quests. Each character, in their own way, highlights how personal symbols can anchor their lives amidst the chaos and moral ambiguity of their worlds. Llewelyn Moss in *No Country for Old Men* provides a fascinating contrast to The Dude and Tom Reagan. Moss’s pursuit of the case filled with $1 million is driven by a clear ambition, at least on the surface—it’s the pursuit of wealth and the potential change it represents in his life. However, the money itself becomes a symbol not just of ambition but of the peril of human greed and the chaos it brings. Unlike the personal and somewhat innocent attachments to the rug and the hat, the case of money draws Moss into a lethal cat-and-mouse game that highlights a darker, more destructive aspect of human nature.
+The Coen Brothers’ work indeed has a profound way of weaving "existential drift" into the fabric of its narratives, juxtaposing the pursuit of seemingly `mundane` objects against a backdrop of broader existential, `transcendental` quests. Each character, in their own way, highlights how personal symbols can anchor their lives amidst the chaos and moral ambiguity of their worlds. Llewelyn Moss in *No Country for Old Men* provides a fascinating `contrast` to The Dude and Tom Reagan. Moss’s pursuit of the case filled with $1 million is driven by a clear `ambition`, at least on the surface—it’s the pursuit of `wealth` and the potential change it represents in his life. However, the money itself becomes a symbol not just of ambition but of the peril of human greed and the `chaos` it brings. Unlike the personal and somewhat innocent attachments to the rug and the hat, the case of money draws Moss into a lethal cat-and-mouse `game` that highlights a darker, more destructive aspect of human nature.
 
-Moss clings to this case much as Tom clings to his hat and The Dude to his rug, but the implications are far more severe. The case does not provide comfort or identity, but rather becomes a burden and a catalyst for violence that spirals out of control. It shows that what one chooses to hold onto can either ground them or doom them, depending on the nature of the attachment.
+Moss clings to this case much as Tom clings to his hat and The Dude to his rug, but the implications are far more severe. The case does not provide `comfort` or identity, but rather becomes a `burden` and a `catalyst` for violence that spirals out of control. It shows that what one chooses to hold onto can either ground them or doom them, depending on the nature of the attachment.
 
 What's striking in the Coen Brothers’ approach is how these objects—whether a rug, a hat, or a suitcase full of money—serve to critique the typical narrative arcs we often see in film. Instead of grand heroics, we see the often futile human struggle against forces larger than oneself, whether it's the randomness of life, the corruption of human desires, or the inevitability of death.
 
