@@ -1,0 +1,3 @@
+- The robust individual may gradually embrace more remote overtones of the harmonic series
+- But the frail individual, both young and old, but mostly old, will not be in position to abide the remote overtones
+- Hence the name of the most acclaimed Coen Brothers movie
