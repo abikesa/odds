@@ -1,6 +1,6 @@
 > **Leo:** And the fighters you pay to tank out?    
 > **Bluepoint:** We only pick fighters we can put the [fear of God](https://www.dailyscript.com/scripts/millers_crossing.html) in. - *Miller's Crossing*    
-> Questions of Friendship, Character, and Ethics are also central to Innaritu's Renevant    
+> **Questions of** Friendship, Character, and Ethics are also central to Innaritu's Renevant    
 > **Terry:** Message from Leo.  Leo says, if you're smart you'll sit this one out--not that he cares oneway or the other.  Leo says if you're on the wrong side you take your `chances`, like anyone else.  Leo says he gives no special favors. That's all.
 
 ![](frontier.png)
@@ -8,13 +8,16 @@
 - `Frontiers`/Physical ([faith](https://www.biblegateway.com/passage/?search=Hebrews%2011&version=KJV)): exploits confusion arising out of mistaken `identities`
    - A new truth ... a truth if we all had, but [...](https://www.youtube.com/watch?v=N9v6VJLZ8_I)
    - Faith in what is not seen, but what is hoped for, and what is charity
+   - It's in the frontiers that one finds ones rug (Dude), hat ([Tom](https://www.dailyscript.com/scripts/millers_crossing.html)), fortune ([Llewelyn](https://en.wikipedia.org/wiki/No_Country_for_Old_Men)) and clings to is as to life (existential drift)
 - `Bustle`/Transcendental (hope): hail, caesar!! is the source of this juice
    - Miller's crossing: long odds (hideth), control (tameth), perturbance (whineth)
    - Frontiers of Akira Kurosawa & Sergio Leone have embracers of more remote overtones of harmonic series taking charge of the "red zones"
    - If they are successful there'll soon be a hustle & bustle, gold or oil rush, with many opportunists trying to join: thats the "flow zone"
    - Ultimately information will diffuse, families will join the hustlers, and order that secures a childhood for these types: "green zone"
+   - Clinging to ones rug, hat, and fortune against the odds wrought be others constitutes the bustle
 - `Order`/Communal (love): `identities` are agents (twins), places (talahasi), times (future)
-   - Greatest of the secular trinity, which Ethan Coen finds most joy in treating as Sfumato, with mistaken identities 
+   - Greatest of the secular trinity, which Ethan Coen finds most joy in treating as Sfumato, with mistaken identities
+   - Ultimately the rug, hat, and fortune are antidote against existential drift & having them gives life meaning and a semblance of order
                                         
                                         1. Root
                                                \
