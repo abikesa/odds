@@ -1,0 +1,5 @@
+- Fargo and No Country for Old Men are their most critically acclaimed movies
+- Best Actress and Best Actor Academies
+- However, No Country for Old Men is an Academy Award for a Villain character
+- Lets review history through GPT-4 to see how often this happens
+- Tarantino did it later for Christopher Schultz in Ignorious Bastards in a supporting role
