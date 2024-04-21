@@ -27,7 +27,11 @@
                                                /
                                                3. Diatonic
 
+
+*A drowning man clutches at a straw. So, think of all men as being in little boats on a tempestuous sea. It's just a matter of time until they realize they're drowning. But what is their straw, their **identity**? Perhaps a rug, a hat, a case? This is the story of "Dude," "Tom," and "Llewyn."*
+
 ### ORDER/Friendship/Verb
+#### Root, 3rd, 5th, 7th
 1. Root 
    - My GPTCI PhD `thesis as reharm`
    - Also a simile where the 9-course Italian cuisine
@@ -57,6 +61,7 @@
          - Human society has done so in all realms and industries, causing consternation to simpletons of the "Pentatonic Credo" of `natural is better than perverted`  
      
 ### BUSTLE/Ethics/Object
+#### 9th, 11th, 13th
 3. Diatonic
    - Randomized trial with complete data: variance, frequentist, idealistic, platonic
    - Bayesian approach will "contain" the wide-range of chromatic biases within a blue zone of two extreme donor eval scenarios
@@ -78,6 +83,7 @@
       - We are the new hollywood with these methods!
 
 ### FRONTIERS/Character/Subject
+#### ♭♭7,♭9,♯9,♯11,♭13
 5. Temperament
    - Answering Dorry's question: what is new is "gradually embracing more remote overtones of the harmonic series" (we've already embraced the pentatonic literature)
       - Its about that time to move beyond the pentatonic scale of live donor literature
