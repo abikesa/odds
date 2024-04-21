@@ -1,4 +1,8 @@
-
+- Strong seeketh fortune at the **frontiers**
+- Weak seeketh protection in the **hustle & bustle** where strong tameth frontiers
+   - Openning scene of "God Father"
+- They'll accept when strong commandeth them
+   - It will be their pleasure to be **ordered** as they `hideth` in shadow of armor of their protector
 
 ![](proverbs28.png)
 
