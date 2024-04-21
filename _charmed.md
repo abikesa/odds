@@ -1,8 +1,9 @@
 - [Manhattan](http://www.script-o-rama.com/movie_scripts/m/manhattan-script-transcript-woody-allen.html) 1979
    - "Behind his black-rimmed glasses was the coiled sexual power of a jungle cat. " I love this.
-- [Barton Fink](https://cinephiliabeyond.org/wp-content/uploads/2016/01/Barton-Fink.compressed.pdf?x11517) 1990
+- [Barton Fink](https://www.dailyscript.com/scripts/barton_Fink.html) 1990
+- Barton, Barton, so glad you could make it.  You know Richard `St. Claire`... Barton nods and looks at the woman (who greets him: "charmed, charmed"). This is faithfully replicated in Bullets Over Broadway, by a character named -- `Sinclair`. What are the odds?
    - Our protagonist is an anxious writer with black-rimmed glasses
-- [Bullets Over Broadway]()
+- [Bullets Over Broadway](https://thescriptsavant.com/movies/Bullets_Over_Broadway.pdf)
    - General plot line overlaps with Barton Fink
    - Also the "bimbo" who says "charmed, charmed" in Barton Fink must've influenced Allan's script
    - Sunset Boulevard is another source of inspiration to Woody Allen, so we can say we've identified **two** sources 
