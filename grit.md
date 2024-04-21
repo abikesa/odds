@@ -1,4 +1,4 @@
-![](proverbs28.md)
+![](proverbs28.png)
 
 - Seeketh/Frontiers
 - Tameth/Hustle & Bustle
