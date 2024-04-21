@@ -1,3 +1,5 @@
+*Prov 28:11 - The rich man is wise in his own conceit; but the poor that hath understanding **searcheth** him out.*
+
 ![](proverbs28.png)
 
 - Seeketh/Frontiers
