@@ -2,6 +2,11 @@
    - Dude's rug
    - Tom's hat
    - Llewyln's case
+   - Tamino's flute
+   - Papagino's birds
+   - Both: Tamina & Papagina
+   - Fink's type writer
+   - Don Giovani's license
  
 - Disproportionate efforts to recover these look absurd to the viewer
    - Rug & hat
