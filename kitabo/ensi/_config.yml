@@ -5,7 +5,7 @@
 #######################################################################################
 # Book settings
 title                       : Odds # The title of the book. Will be placed in the left navbar.
-author                      : https://thelibrary.mgmresorts.com/transform/2iV5hPd7RSu53EvT/102284502.jpg? # The author of the book
+author                      : https://thelibrary.mgmresorts.com/transform/2iV5hPd7RSu53EvT/102284502.jpg # The author of the book
 copyright                   : "2025"  # Copyright year to be placed in the footer
 logo                        :  # Path to the logo image file
 email                       : "abikesa.sh@gmail.com"
