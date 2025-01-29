@@ -1,3 +1,0 @@
-Ah, "Fargo"! Now that makes sense. Marge Gunderson is the iconic police chief from the movie "Fargo," and Norm is her husband. They're that wonderfully down-to-earth couple set against the dark and comedic backdrop of the crime story. The "MN" coincidence fits perfectly since the story is set in Minnesota. Clever observation!
-
-This couple enjoys the simple things: food, burgers, contests that you'd never care for (paintings of birds), etc. If the Dude has his rug, Tom has his hat, Llewlyn (Moss) has his case (full of money), and the other Llewlyn (Davis) has his guitar, then MN have got the Mundane. And they're compellingly happy!
